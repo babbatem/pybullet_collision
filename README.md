@@ -1,4 +1,4 @@
-# bullet-collision
+# pybullet_collision
 
 `./pybullet-install.sh` will create a virtualenv and pip install numpy, pybullet, open3d.  
 
